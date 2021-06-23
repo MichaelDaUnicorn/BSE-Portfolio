@@ -1,4 +1,6 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
 Tutorial/Debug/
+Tutorial/.vs/
