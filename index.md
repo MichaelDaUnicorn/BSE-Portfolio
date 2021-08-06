@@ -4,8 +4,6 @@ I am working on a ball tracking robot that uses Arduino and Raspberry Pi to foll
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Michael | Amador Valley High School | Mechanical Engineering / Electrical Engineering / Programming | Incoming Junior
-
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
  
 # First Milestone
 
