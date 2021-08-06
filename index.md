@@ -5,6 +5,13 @@ I am working on a ball tracking robot that uses Arduino and Raspberry Pi to foll
 |:--:|:--:|:--:|:--:|
 | Michael | Amador Valley High School | Mechanical Engineering / Electrical Engineering / Programming | Incoming Junior
  
+- Power bank and battery pack mounted inside the chassis with standoffs securing them.
+- Added a modified Raspberry Pi case, with fan, that gives easy access to the GPIO pins.
+- Connected motors to two L293D motor drivers, enabling individual control of each of the 4 motors.
+- Programmed using Python basic methods.
+- Converted code to C++.
+
+ 
 # First Milestone
 
 My first milestone includes the assembling of the chassis and attaching Mecanum wheels, but is otherwise mostly composed of software additions. The Mecanum wheels allow the robot to move in any direction without having to turn, and in the case that it does turn, there will be reduced friction due to the rollers on the wheels.
