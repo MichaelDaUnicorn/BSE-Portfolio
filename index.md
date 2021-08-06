@@ -1,5 +1,5 @@
 ﻿# Ball Tracking Robot
-I am working on a ball tracking robot that uses Arduino and Raspberry Pi to follow an object.
+Description here
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
